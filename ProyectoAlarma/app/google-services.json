@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "27498383500",
+    "firebase_url": "https://reloj-despertador.firebaseio.com",
+    "project_id": "reloj-despertador",
+    "storage_bucket": "reloj-despertador.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27498383500:android:659b13fab9d9110a",
+        "android_client_info": {
+          "package_name": "proyectalarma.app.ivonnehdez.proyectoalarma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27498383500-k1l5nqkal9o1fbde5cv8d9eh402g0lvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "proyectalarma.app.ivonnehdez.proyectoalarma",
+            "certificate_hash": "64f81a34dc2555b97ad3c84adc55b04361a1363c"
+          }
+        },
+        {
+          "client_id": "27498383500-75epe6gv4b5i7604alvlv6rsf2kp37t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5NvZsrmbIopgFByjksA49KsQC-d8liRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27498383500-75epe6gv4b5i7604alvlv6rsf2kp37t1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
